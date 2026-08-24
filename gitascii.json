@@ -1,0 +1,217 @@
+{
+  "widgets": [
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 433
+      },
+      "size": {
+        "width": 488,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1787552956612_3"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 488,
+        "y": 433
+      },
+      "size": {
+        "width": 302,
+        "height": 223
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "html",
+          "css",
+          "py",
+          "cpp",
+          "c",
+          "react",
+          "vite",
+          "nodejs",
+          "express",
+          "mongodb",
+          "github",
+          "git",
+          "vercel",
+          "netlify",
+          "vscode",
+          "postman"
+        ],
+        "theme": "dark",
+        "perLine": 4
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1787552956612_5"
+    },
+    {
+      "instanceId": "widget_1787553255331",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 5,
+        "y": 1340
+      },
+      "size": {
+        "width": 790,
+        "height": 88
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "email",
+          "twitter"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/sayanbanerjee270",
+          "linkedin": "https://www.linkedin.com/in/sayan-banerjee-075120343/",
+          "email": "mailto:sayanb3018@gmail.com",
+          "twitter": "https://x.com/Baner38710Sayan"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1787553313700",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 10,
+        "y": 1206
+      },
+      "size": {
+        "width": 780,
+        "height": 112
+      },
+      "config": {
+        "accentColor": "#b6a891",
+        "marqueeLangs": [
+          "react",
+          "ts",
+          "js",
+          "html",
+          "css",
+          "nodejs",
+          "python",
+          "git",
+          "py",
+          "cpp",
+          "c",
+          "vite",
+          "mongodb",
+          "github",
+          "netlify",
+          "vercel",
+          "postman",
+          "vscode"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1787553387550",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 8
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787554400555",
+      "widgetId": "github-readme-stats",
+      "name": "Github-readme-stats Widget",
+      "position": {
+        "x": 479,
+        "y": 688
+      },
+      "size": {
+        "width": 320,
+        "height": 192
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1787555163279",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 10,
+        "y": 928
+      },
+      "size": {
+        "width": 780,
+        "height": 256
+      },
+      "config": {
+        "customBio": "I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.\n\n🔭 I’m currently a CS student at Haldia Institute Of Technology.\n📚 I’m currently learning Fullstack web development using MERN stack.\n💡 Also learning DSA in C++.\n💻 “Just started, but already obsessed with code.”\n🔄 “Eat. Code. Debug. Repeat.”",
+        "customBlog": "https://sayanbanerjee270.github.io/Portfolio-Website/"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787555266000",
+      "widgetId": "godprofile-terminal",
+      "name": "Godprofile-terminal Widget",
+      "position": {
+        "x": 12,
+        "y": 609
+      },
+      "size": {
+        "width": 464,
+        "height": 327
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal"
+}
