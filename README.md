@@ -7,7 +7,7 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Haldia Institute Of Technology.
-- 📚 I’m currently learning  Frontend web development using HTML ,CSS ,Javascript ,NodeJS ,ReactJS.
+- 📚 I’m currently learning  Fullstack web development using HTML ,CSS ,Javascript ,NodeJS ,ReactJS ,ExpressJS ,MongoDB.
 - 💡 Also learning DSA in CPP.
 - 💻 “Just started, but already obsessed with code.”
 - 🔄 “Eat. Code. Debug. Repeat.”
